@@ -1,0 +1,36 @@
+R 850 500
+NO ./assets/crystal.xpm
+SO ./assets/crystal_imac.xpm
+WE ./assets/crystal_box.xpm
+EA ./assets/crystal_sign.xpm
+S ./assets/vlc.xpm
+F 0,0,0
+C 0,0,0
+
+HK ./assets/healthkit.xpm
+PORTAL ./assets/portal.xpm
+DOOR ./assets/door.xpm
+GOOMBA ./assets/goomba.xpm
+SKYBOX ./assets/skybox.xpm
+FLOOR ./assets/stone.xpm
+DASH ./assets/dash.xpm
+GUN ./assets/portalgun.xpm
+
+S_DOOR ./assets/door.mp3
+S_HURT ./assets/hurt.mp3
+S_STOMP ./assets/stomp.mp3
+S_PORTAL ./assets/portal.mp3
+S_HEAL ./assets/heal.mp3
+S_WALK ./assets/walk.mp3
+S_AMBIENT ./assets/background.mp3
+
+11111111111
+1GP00010001
+11101110101
+10000010101
+11111010101
+100W1000101
+10101111101
+10111000101
+10000010001
+11111111111
